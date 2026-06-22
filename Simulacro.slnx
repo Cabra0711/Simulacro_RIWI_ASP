@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Simulacro.API/Simulacro.API.csproj" />
+  <Project Path="Simulacro.Application/Simulacro.Application.csproj" />
+  <Project Path="Simulacro.Domain/Simulacro.Domain.csproj" />
+  <Project Path="Simulacro.Infrastructure/Simulacro.Infrastructure.csproj" />
+</Solution>
